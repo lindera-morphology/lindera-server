@@ -22,7 +22,7 @@ compress = ["lindera/compress"]  # Compression
 
 [dependencies]
 anyhow = "1.0"
-axum = "0.4"
+axum = "0.5"
 clap = { version = "3.1", features = ["derive"] }
 serde = "1.0"
 serde_derive = "1.0"
